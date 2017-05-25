@@ -253,6 +253,11 @@ section.newDeal img {
   display: block;
   margin: 0 auto;
 }
+section.reaganomics {
+  background: url("../img/reagan.jpg");
+  background-size: cover;
+  height: 800px;
+}
 footer {
   background-color: #222222;
   padding: 25px 0;
