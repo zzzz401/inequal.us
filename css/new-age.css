@@ -265,12 +265,43 @@ section.reaganomics h2 {
   text-shadow: 4px 4px #222222;
   background-color: rgba(0, 0, 0, 0.25);
 }
+section.modernDay {
+  background: url("../img/modernDay.jpg");
+  background-size: cover;
+  height: 600px;
+}
+section.modernDay h2 {
+  color: white;
+  padding-left: 30px;
+  padding-top: 30px;
+  text-shadow: 4px 4px #222222;
+  background-color: rgba(0, 0, 0, 0.25);
+}
 section.reaganomicsExplanation h2 {
   font-size: 26px;
 }
 section.reaganomicsExplanation img {
   display: block;
   margin: 0 auto;
+}
+section.modernDayExplanation h2 {
+  font-size: 26px;
+}
+section.modernDayExplanation img {
+  display: block;
+  margin: 0 auto;
+}
+section.wallstreet {
+  background: url("../img/wallstreet.jpg");
+  background-size: cover;
+}
+section.sources h1 {
+  font-size: 32;
+  top: 50%;
+  left: 50%;
+}
+section.sources h2 {
+  font-size: 28px;
 }
 footer {
   background-color: #222222;
